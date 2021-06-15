@@ -20,15 +20,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged --debug"
-    }
+    "eject": "react-scripts eject",
+    "prepare": "husky install"
   },
   "lint-staged": {
-    "*": [
+    "*.{js,ts,tsx}": [
       "eslint . --ext .js --ext .ts --ext .tsx --fix --debug"
     ]
   },

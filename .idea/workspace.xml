@@ -60,12 +60,25 @@
       <updated>1623741211896</updated>
       <workItem from="1623741213021" duration="867000" />
       <workItem from="1623742298431" duration="7021000" />
-      <workItem from="1623758516710" duration="284000" />
+      <workItem from="1623758516710" duration="687000" />
+      <workItem from="1623759540174" duration="1106000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed pre-commit eslint check">
+      <created>1623759028537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623759028537</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed pre-commit eslint check" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed pre-commit eslint check" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1385" y="238" width="864" height="412" key="#ESLint" timestamp="1623750451724">
@@ -76,10 +89,10 @@
       <screen x="0" y="23" width="2560" height="1053" />
     </state>
     <state x="1260" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1053@0.23.2560.1053" timestamp="1623742428458" />
-    <state x="1116" y="140" key="CommitChangelistDialog2" timestamp="1623756825772">
+    <state x="1116" y="140" key="CommitChangelistDialog2" timestamp="1623759028194">
       <screen x="0" y="23" width="2560" height="1053" />
     </state>
-    <state x="1116" y="140" key="CommitChangelistDialog2/0.23.2560.1053@0.23.2560.1053" timestamp="1623756825772" />
+    <state x="1116" y="140" key="CommitChangelistDialog2/0.23.2560.1053@0.23.2560.1053" timestamp="1623759028194" />
     <state width="2055" height="289" key="GridCell.Tab.0.bottom" timestamp="1623742296479">
       <screen x="0" y="23" width="2560" height="1053" />
     </state>
@@ -100,6 +113,10 @@
       <screen x="0" y="23" width="2560" height="1053" />
     </state>
     <state x="1031" y="188" key="SettingsEditor/0.23.2560.1053@0.23.2560.1053" timestamp="1623756969346" />
+    <state x="1122" y="276" key="Vcs.Push.Dialog.v2" timestamp="1623759031948">
+      <screen x="0" y="23" width="2560" height="1053" />
+    </state>
+    <state x="1122" y="276" key="Vcs.Push.Dialog.v2/0.23.2560.1053@0.23.2560.1053" timestamp="1623759031948" />
     <state x="1223" y="304" width="598" height="490" key="find.popup" timestamp="1623741740345">
       <screen x="0" y="23" width="2560" height="1053" />
     </state>
