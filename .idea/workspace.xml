@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5421b17-a9b0-4d00-91c4-5ac0aa9da700" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ontario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/hooks.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/saga.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,13 +37,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -58,7 +77,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623741211896</updated>
-      <workItem from="1623741213021" duration="524000" />
+      <workItem from="1623741213021" duration="867000" />
+      <workItem from="1623742298431" duration="6278000" />
     </task>
     <servers />
   </component>
@@ -66,22 +86,38 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2055" height="289" key="GridCell.Tab.0.bottom" timestamp="1623741918091">
+    <state x="1385" y="238" width="864" height="412" key="#ESLint" timestamp="1623750451724">
       <screen x="0" y="23" width="2560" height="1053" />
     </state>
-    <state width="2055" height="289" key="GridCell.Tab.0.bottom/0.23.2560.1053@0.23.2560.1053" timestamp="1623741918091" />
-    <state width="2055" height="289" key="GridCell.Tab.0.center" timestamp="1623741918071">
+    <state x="1385" y="238" width="864" height="412" key="#ESLint/0.23.2560.1053@0.23.2560.1053" timestamp="1623750451724" />
+    <state x="1260" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623742428458">
       <screen x="0" y="23" width="2560" height="1053" />
     </state>
-    <state width="2055" height="289" key="GridCell.Tab.0.center/0.23.2560.1053@0.23.2560.1053" timestamp="1623741918071" />
-    <state width="2055" height="289" key="GridCell.Tab.0.left" timestamp="1623741918068">
+    <state x="1260" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1053@0.23.2560.1053" timestamp="1623742428458" />
+    <state x="1116" y="140" key="CommitChangelistDialog2" timestamp="1623756825772">
       <screen x="0" y="23" width="2560" height="1053" />
     </state>
-    <state width="2055" height="289" key="GridCell.Tab.0.left/0.23.2560.1053@0.23.2560.1053" timestamp="1623741918068" />
-    <state width="2055" height="289" key="GridCell.Tab.0.right" timestamp="1623741918071">
+    <state x="1116" y="140" key="CommitChangelistDialog2/0.23.2560.1053@0.23.2560.1053" timestamp="1623756825772" />
+    <state width="2055" height="289" key="GridCell.Tab.0.bottom" timestamp="1623742296479">
       <screen x="0" y="23" width="2560" height="1053" />
     </state>
-    <state width="2055" height="289" key="GridCell.Tab.0.right/0.23.2560.1053@0.23.2560.1053" timestamp="1623741918071" />
+    <state width="2055" height="289" key="GridCell.Tab.0.bottom/0.23.2560.1053@0.23.2560.1053" timestamp="1623742296479" />
+    <state width="2055" height="289" key="GridCell.Tab.0.center" timestamp="1623742296478">
+      <screen x="0" y="23" width="2560" height="1053" />
+    </state>
+    <state width="2055" height="289" key="GridCell.Tab.0.center/0.23.2560.1053@0.23.2560.1053" timestamp="1623742296478" />
+    <state width="2055" height="289" key="GridCell.Tab.0.left" timestamp="1623742296477">
+      <screen x="0" y="23" width="2560" height="1053" />
+    </state>
+    <state width="2055" height="289" key="GridCell.Tab.0.left/0.23.2560.1053@0.23.2560.1053" timestamp="1623742296477" />
+    <state width="2055" height="289" key="GridCell.Tab.0.right" timestamp="1623742296479">
+      <screen x="0" y="23" width="2560" height="1053" />
+    </state>
+    <state width="2055" height="289" key="GridCell.Tab.0.right/0.23.2560.1053@0.23.2560.1053" timestamp="1623742296479" />
+    <state x="1031" y="188" key="SettingsEditor" timestamp="1623756879154">
+      <screen x="0" y="23" width="2560" height="1053" />
+    </state>
+    <state x="1031" y="188" key="SettingsEditor/0.23.2560.1053@0.23.2560.1053" timestamp="1623756879154" />
     <state x="1223" y="304" width="598" height="490" key="find.popup" timestamp="1623741740345">
       <screen x="0" y="23" width="2560" height="1053" />
     </state>
