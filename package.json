@@ -24,12 +24,12 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "lint-staged --debug"
     }
   },
   "lint-staged": {
-    "*.{js,ts,tsx}": [
-      "eslint --fix"
+    "*": [
+      "eslint . --ext .js --ext .ts --ext .tsx --fix --debug"
     ]
   },
   "browserslist": {
